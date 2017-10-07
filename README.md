@@ -1,4 +1,4 @@
-Git Game Finish Line
+Git Game Finish Line --- Ok. Finished
 ==========
 
 If you did not update the main git-game repository, then we are disappointed in you!!
