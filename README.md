@@ -1,9 +1,8 @@
-Git Game Finish Line --- Ok. Finished
-==========
+## Git Game Finish Line --- Ok. Finished
 
+# Welcome to the git-game!!  READY
 
 If you did not update the main git-game repository, then we are disappointed in you!!
-=======
 
 However, if you did, then great Job!!
 You completed our Git Game!
